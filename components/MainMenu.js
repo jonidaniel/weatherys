@@ -5,7 +5,6 @@ import Header from "./Header.js";
 import WeatherDisplay from "./WeatherDisplay.js";
 
 // Personal key needed for making API queries to OpenWeather
-// const WEATHER_API_KEY = "fa190f010bd766ccd94aaba8364a24ee";
 const WEATHER_API_KEY = "10fcaeee952a57d9477f5b0ba57d4647";
 const BASE_WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather?";
 
