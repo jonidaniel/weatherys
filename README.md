@@ -6,7 +6,7 @@
   - Forecasts will be implemented in the future
 
 - Developed with React Native
-  - Different builds for desktop, [Android](https://www.android.com) and [iOS](https://www.apple.com/fi/ios/ios-18/) can be made
+  - Different builds can be made for desktop, [Android](https://www.android.com) and [iOS](https://www.apple.com/fi/ios/ios-18/)
 
 ## Status & Usage
 
