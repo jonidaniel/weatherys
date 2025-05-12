@@ -28,8 +28,7 @@
     "react-router-native": "^6.2.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9",
-    "expo-cli": "^6.3.12"
+    "@babel/core": "^7.12.9"
   },
   "private": true
 }
