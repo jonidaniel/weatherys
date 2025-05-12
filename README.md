@@ -1,17 +1,21 @@
 # Weatherys
 
 - A weather application that displays weather by search location or by device location
-  - Utilizes OpenWeatherMap's [Weather API](https://openweathermap.org/api) when fetching current weather
+
+  - Utilizes OpenWeather's [Weather API](https://openweathermap.org/api) when fetching current weather
   - Forecasts will be implemented in the future
 
-## Status
+- Developed with React Native
+  - Different builds for desktop, [Android](https://www.android.com) and [iOS](https://www.apple.com/fi/ios/ios-18/) can be made
+
+## Status & Usage
 
 - Weatherys 0.9.0 is operational on [Netlify](https://weatherys.netlify.app/)
-
-## Usage
-
+  - Tested on
+    - browsers: [Apple Safari](https://www.apple.com/safari/) and [Google Chrome](https://www.google.com/chrome/)
+    - devices: [Apple Macbook Pro M1](https://support.apple.com/fi-fi/111893) and [Nokia](https://www.nokia.com) C32 (Android version 13)
 - If you like, you can clone this repo with
-  - `git clone https://github.com/jonidaniel/weatherys`
+  - `git clone https://github.com/jonidaniel/weatherys` to continue the developement from where I left off
 
 ## Screenshots
 
@@ -21,7 +25,7 @@
 ## Technologies & Tools
 
 - [React Native](https://reactnative.dev/)
-- [OpenWeatherMap](https://openweathermap.org/)
+- [OpenWeather](https://openweathermap.org/)
 
 ## Author
 
