@@ -1,11 +1,12 @@
 # Weatherys
 
 - A weather application that displays weather by search location or by device location
+  - Utilizes OpenWeatherMap's [Weather API](https://openweathermap.org/api) when fetching current weather
+  - Forecasts will be implemented in the future
 
 ## Status
 
 - Weatherys 0.9.0 is operational on [Netlify](https://weatherys.netlify.app/)
-  - Forecasts tab will be developed later
 
 ## Usage
 
@@ -14,7 +15,8 @@
 
 ## Screenshots
 
-![](screenshots/.png?raw=true)
+![](screenshots/mumbai-via-search.png?raw=true)
+![](screenshots/vantaa-via-location.png?raw=true)
 
 ## Technologies & Tools
 
